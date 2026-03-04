@@ -1,0 +1,6 @@
+[
+  { "id": "g01", "name": "Okta Super Admins" },
+  { "id": "g02", "name": "AWS Admins" },
+  { "id": "g03", "name": "Google Workspace Admins" },
+  { "id": "g04", "name": "Engineering" }
+]
