@@ -1,0 +1,16 @@
+okta-privileged-access-review/
+├── README.md
+├── config/
+│   └── config.example.yaml
+├── data/
+│   ├── sample_groups.json
+│   ├── sample_group_members.json
+│   └── sample_users.json
+├── output/
+│   └── .gitkeep
+├── scripts/
+│   ├── generate_access_review.py
+│   └── okta_api_examples.md
+└── docs/
+    ├── runbook.md
+    └── controls_and_risks.md
