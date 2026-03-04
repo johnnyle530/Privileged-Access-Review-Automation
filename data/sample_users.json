@@ -1,0 +1,34 @@
+[
+  {
+    "id": "u01",
+    "email": "alice.admin@company.com",
+    "name": "Alice Admin",
+    "status": "ACTIVE",
+    "department": "IT",
+    "manager_email": "it.manager@company.com"
+  },
+  {
+    "id": "u02",
+    "email": "ben.cloud@company.com",
+    "name": "Ben Cloud",
+    "status": "ACTIVE",
+    "department": "Infrastructure",
+    "manager_email": "infra.manager@company.com"
+  },
+  {
+    "id": "u03",
+    "email": "chris.security@company.com",
+    "name": "Chris Security",
+    "status": "ACTIVE",
+    "department": "Security",
+    "manager_email": "security.manager@company.com"
+  },
+  {
+    "id": "u04",
+    "email": "dana.workspace@company.com",
+    "name": "Dana Workspace",
+    "status": "ACTIVE",
+    "department": "IT",
+    "manager_email": "it.manager@company.com"
+  }
+]
