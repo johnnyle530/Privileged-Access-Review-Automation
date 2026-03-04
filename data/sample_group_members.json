@@ -1,0 +1,5 @@
+[
+  { "group_id": "g01", "user_ids": ["u01", "u03"] },
+  { "group_id": "g02", "user_ids": ["u02", "u03"] },
+  { "group_id": "g03", "user_ids": ["u04"] }
+]
